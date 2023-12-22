@@ -9,8 +9,7 @@ language processing (NLP) tasks in a self-supervised setting [23]. However, thes
 unintentionally produce convincing arguments for false statements.
 There has been recent interest in improving LLM performance by fine-tuning in a reinforcement
 learning framework through interaction with human users. One could raise the concern that even
-seemingly benign reward functions can lead to strategic manipulation of user responses as an instrumental goal to achieve higher overall performance. This thesis seeks to investigate this possibility
-by evaluating the persuasiveness of self-supervised-only and reinforcement-learning-fine-tuned LLMs.
+seemingly benign reward functions can lead to strategic manipulation of user responses as an instrumental goal to achieve higher overall performance. This thesis seeks to investigate this possibility by evaluating the persuasiveness of self-supervised-only and reinforcement-learning-fine-tuned LLMs.
 
 In this work, we will discuss three approaches to investigating the degree of persuasiveness in
 LLMs by searching for qualitative failures through a direct query, quantifying the persuasiveness of
