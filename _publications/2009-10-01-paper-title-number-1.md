@@ -4,9 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'While'
 date: 2023
-venue: 'Princeton University ProQuest Dissertations Publishing'
-paperurl: 'https://drive.google.com/file/d/198B-qd--Z1NGEOXJ4hDWvt8rAkGTSi-u/view?usp=sharing'
-citation: '[1] P. O. Ekpo, "Investigating Persuasiveness in Large Language Models." Order No. 30491408, Princeton University, United States -- New Jersey, 2023.'
+
 ---
 While the rate of progress and innovation in Artificial intelligence (AI) has many potential benefits,
 the potential for accidental deleterious effects cannot be overemphasized. It has been empirically
