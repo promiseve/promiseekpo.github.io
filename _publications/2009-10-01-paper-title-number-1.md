@@ -2,10 +2,16 @@
 title: "Investigating Persuasiveness in Large Language Models"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'While the rate of progress and innovation in Artificial intelligence (AI) has many potential benefits,
-the potential for accidental deleterious effects cannot be overemphasized [6]. It has been empirically
+excerpt: 'While'
+date: 2023
+venue: 'Princeton University ProQuest Dissertations Publishing'
+paperurl: 'https://drive.google.com/file/d/198B-qd--Z1NGEOXJ4hDWvt8rAkGTSi-u/view?usp=sharing'
+citation: '[1] P. O. Ekpo, "Investigating Persuasiveness in Large Language Models." Order No. 30491408, Princeton University, United States -- New Jersey, 2023.'
+---
+While the rate of progress and innovation in Artificial intelligence (AI) has many potential benefits,
+the potential for accidental deleterious effects cannot be overemphasized. It has been empirically
 demonstrated that large language models (LLMs) can learn to perform a wide range of natural
-language processing (NLP) tasks in a self-supervised setting [23]. However, these models might
+language processing (NLP) tasks in a self-supervised setting. However, these models might
 unintentionally produce convincing arguments for false statements.
 There has been recent interest in improving LLM performance by fine-tuning in a reinforcement
 learning framework through interaction with human users. One could raise the concern that even
@@ -18,14 +24,8 @@ generated outputs, and training on this persuasiveness metric as a reward signal
 learning. Through our investigation, we find that state-of-the-art LLMs fail when prompted with
 statements about less popular misconceptions or domain-specific myths. With this investigation of
 the safety-critical related failures of LLMs, we hope to further inform the public of the degree of
-reliability of these models and guide their use.'
-date: 2023
-venue: 'Princeton University ProQuest Dissertations Publishing'
-paperurl: 'https://drive.google.com/file/d/198B-qd--Z1NGEOXJ4hDWvt8rAkGTSi-u/view?usp=sharing'
-citation: '[1] P. O. Ekpo, "Investigating Persuasiveness in Large Language Models." Order No. 30491408, Princeton University, United States -- New Jersey, 2023.'
-<!-- ---
-This paper is about the number 1. The number 2 is left for future work.
+reliability of these models and guide their use
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://drive.google.com/file/d/198B-qd--Z1NGEOXJ4hDWvt8rAkGTSi-u/view?usp=sharing)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+Recommended citation: 1] P. O. Ekpo, "Investigating Persuasiveness in Large Language Models." Order No. 30491408, Princeton University, United States -- New Jersey, 2023.
