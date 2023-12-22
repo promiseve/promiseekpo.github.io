@@ -1,0 +1,16 @@
+---
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'When considering off-policy reinforcement learning methods for treatment policies in healthcare data, it is generally the case that the patient population is diverse and has different chronic conditions that we would like to take into account when identifying optimal treatment policies. In this work, we use multi-group Gaussian process regression models in a fitted Q-iteration framework to allow us to model these different patient sub- groups and adapt the optimal policies to each subgroup. Concurrently, we es- timate these functions across the entire patient population. Finally, we apply our multi-group reinforcement learning (MGRL) framework to the problem of optimal treatment policies for electrolytes with pre-existing medical conditions to assess performance against other state-of-the-art methods. We show that MGGP supersedes the performance of other models in addressing group structure in reinforcement learning settings due to the robust covariance functions which has been adapted to learn the different behaviours for multiple groups while maintaining a single policy. 
+Keywords: Offline Reinforcement learning, Multi-Group Gaussian pro- cesses, Clinical, Electronic health records.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
+This paper is about the number 3. The number 4 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

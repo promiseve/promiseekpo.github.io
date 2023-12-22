@@ -21,8 +21,8 @@ the safety-critical related failures of LLMs, we hope to further inform the publ
 reliability of these models and guide their use.'
 date: 2023-06-13
 #venue: 'Princeton University ProQuest Dissertations Publishing'
-paperurl: 'https://drive.google.com/file/d/198B-qd--Z1NGEOXJ4hDWvt8rAkGTSi-u/view?usp=sharing'
-citation: 'P. O. Ekpo, "Investigating Persuasiveness in Large Language Models." Order No. 30491408, Princeton University, United States -- New Jersey, 2023.'
+#paperurl: 'https://drive.google.com/file/d/198B-qd--Z1NGEOXJ4hDWvt8rAkGTSi-u/view?usp=sharing'
+#citation: 'P. O. Ekpo, "Investigating Persuasiveness in Large Language Models." Order No. 30491408, Princeton University, United States -- New Jersey, 2023.'
 ---
 
 While the rate of progress and innovation in Artificial intelligence (AI) has many potential benefits,
