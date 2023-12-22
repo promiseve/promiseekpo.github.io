@@ -20,7 +20,7 @@ statements about less popular misconceptions or domain-specific myths. With this
 the safety-critical related failures of LLMs, we hope to further inform the public of the degree of
 reliability of these models and guide their use.'
 date: 2023-06-13
-#ßvenue: 'Princeton University ProQuest Dissertations Publishing'
+#venue: 'Princeton University ProQuest Dissertations Publishing'
 paperurl: 'https://drive.google.com/file/d/198B-qd--Z1NGEOXJ4hDWvt8rAkGTSi-u/view?usp=sharing'
 citation: 'P. O. Ekpo, "Investigating Persuasiveness in Large Language Models." Order No. 30491408, Princeton University, United States -- New Jersey, 2023.'
 ---
@@ -45,4 +45,4 @@ reliability of these models and guide their use.
 
 [Download paper here](https://drive.google.com/file/d/198B-qd--Z1NGEOXJ4hDWvt8rAkGTSi-u/view?usp=sharing)
 
-Recommended citation: P. O. Ekpo, "Investigating Persuasiveness in Large Language Models." Order No. 30491408, Princeton University, United States -- New Jersey, 2023.
+Recommended citation: P. O. Ekpo, "Investigating Persuasiveness in Large Language Models." Order No. 30491408, Princeton University.
