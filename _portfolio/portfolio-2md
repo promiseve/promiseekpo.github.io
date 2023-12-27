@@ -1,0 +1,14 @@
+---
+title: "Multimodal safety monitor"
+excerpt: " This project was focused on building a multimodal safety monitor by combining two unsafe
+systems; a vision-based AI system and real-time localization system (RTLS).
+o Wrote python algorithms to facilitate the integration of the vision system and the RTLS system to facilitate exchange of
+information in compatible input and output format."
+
+collection: portfolio
+---
+
+This project was focused on building a multimodal safety monitor by combining two unsafe
+systems; a vision-based AI system and real-time localization system (RTLS).
+o Wrote python algorithms to facilitate the integration of the vision system and the RTLS system to facilitate exchange of
+information in compatible input and output format.

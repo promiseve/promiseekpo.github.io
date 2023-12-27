@@ -7,5 +7,5 @@ main:
   - title: "Publications"
     url: /publications/
     
-  # - title: " Other Research Projects"
-  #   url: /portfolio/
+  - title: " Other Research Projects"
+    url: /portfolio/
