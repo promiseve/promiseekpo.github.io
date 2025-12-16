@@ -10,8 +10,6 @@ redirect_from:
 
 # Hello there, I'm Promise!
 
-# Hello there, I'm Promise!
-
 I am a third-year Ph.D. student in the Computer Science Department at Cornell University, advised by [Prof. Angelique Taylor](https://www.angeliquemtaylor.com/).  My Ph.D. research focuses on **fairness-aware multi-agent reinforcement learning (MARL)** and **multi-objective optimization** for safety-critical applications, particularly in healthcare settings where effective coordination between heterogeneous agents is crucial.
 
 My current work centers on developing [Fair-GNE (Fair Generalized Nash Equilibrium)](https://arxiv.org/pdf/2511.14135), a novel constrained optimization framework using Lagrangian dual ascent for automatic penalty parameter learning. This approach addresses fairness-efficiency trade-offs in multi-agent systems and has direct applications to RLHF and alignment in large language models. I've also developed [FairSkillMARL](https://arxiv.org/pdf/2508.18708), which establishes principled fairness and reward modeling frameworks for MARL that bridge the gap between algorithmic definitions and real-world equity considerations. To enable reproducible evaluation of these methods, I built [MARLHospital](https://arxiv.org/pdf/2511.14135), a customizable simulation environment featuring heterogeneous agents with varying skills and energy levels performing coordinated medical procedures like CPR, rescue breathing, and equipment handling.
