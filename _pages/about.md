@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 # Hello there, I'm Promise!
 
 I am a third-year Ph.D. student in the Computer Science Department at Cornell University, advised by [Prof. Angelique Taylor](https://www.angeliquemtaylor.com/).  My Ph.D. research focuses on **fairness-aware multi-agent reinforcement learning (MARL)** and **multi-objective optimization** for safety-critical applications, particularly in healthcare settings where effective coordination between heterogeneous agents is crucial.
