@@ -18,4 +18,4 @@ Before Cornell, I completed my M.Sc. in Computer Science at [Princeton Universit
 
 **Research interests:** Robotics & Human-Robot Interaction, Embodied AI, Multimodal Perception, Robot Failure Detection & Recovery, Multi-Agent Reinforcement Learning, Vision-Language Models, AI Safety.
 
-I am actively seeking **robotics research internships** for Summer 2026. Feel free to reach out.
+I am actively seeking **robotics research internships** for Summer 2027. Feel free to reach out.
