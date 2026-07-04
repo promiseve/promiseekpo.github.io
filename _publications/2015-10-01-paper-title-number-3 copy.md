@@ -1,13 +1,10 @@
 ---
-title: "Multi-Group Reinforcement Learning for Electrolyte Repletion (Under review)"
+title: "RFM-HRI: A Multimodal Dataset of Medical Robot Failure, User Reaction, and Recovery Preferences for Item Retrieval Tasks"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'When considering off-policy reinforcement learning methods for treatment policies in healthcare data, it is generally the case that the patient population is diverse and has different chronic conditions that we would like to take into account when identifying optimal treatment policies. In this work, we use multi-group Gaussian process regression models in a fitted Q-iteration framework to allow us to model these different patient sub- groups and adapt the optimal policies to each subgroup. Concurrently, we es- timate these functions across the entire patient population. Finally, we apply our multi-group reinforcement learning (MGRL) framework to the problem of optimal treatment policies for electrolytes with pre-existing medical conditions to assess performance against other state-of-the-art methods. We show that MGGP supersedes the performance of other models in addressing group structure in reinforcement learning settings due to the robust covariance functions which has been adapted to learn the different behaviours for multiple groups while maintaining a single policy.'
-date: 2022-02-02
-#venue: ''
-#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-#citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2026-04-01-rfm-hri
+excerpt: 'A multimodal dataset capturing 214 human-robot interactions from 41 laypersons and healthcare workers responding to crash-cart robot failures in an item-retrieval task, with facial action units (OpenFace) and speech transcription (Whisper) to quantify reactions and preferred recovery modes in embodied AI.'
+date: 2026-04-01
+venue: 'ACM Transactions on Human-Robot Interaction (THRI), accepted 2026'
+citation: 'Y. Batra, <b>Promise Ekpo</b>, G. Pioldi, P. Marur, A. Ibrayeva, A. Taylor. "RFM-HRI: A Multimodal Dataset of Medical Robot Failure, User Reaction, and Recovery Preferences for Item Retrieval Tasks." THRI, 2026 (accepted).'
 ---
-When considering off-policy reinforcement learning methods for treatment policies in healthcare data, it is generally the case that the patient population is diverse and has different chronic conditions that we would like to take into account when identifying optimal treatment policies. In this work, we use multi-group Gaussian process regression models in a fitted Q-iteration framework to allow us to model these different patient sub- groups and adapt the optimal policies to each subgroup. Concurrently, we es- timate these functions across the entire patient population. Finally, we apply our multi-group reinforcement learning (MGRL) framework to the problem of optimal treatment policies for electrolytes with pre-existing medical conditions to assess performance against other state-of-the-art methods. We show that MGGP supersedes the performance of other models in addressing group structure in reinforcement learning settings due to the robust covariance functions which has been adapted to learn the different behaviours for multiple groups while maintaining a single policy.'
-
-[Download paper here](https://drive.google.com/file/d/1yjm1wJt1ZCaLR_xkD1CnT2bRq6z8MuMQ/view?usp=sharing)
+A multimodal dataset capturing 214 human-robot interactions from 41 laypersons and healthcare workers responding to crash-cart robot failures in an item-retrieval task. We developed an annotation framework using facial action units (OpenFace) and speech transcription (Whisper) to quantify user reactions and preferred recovery modes in embodied AI. User responses to robot failures vary significantly by context, ranging from confusion in early trials to frustration in later ones, and preferred recovery strategies combine verbal correction with transparency cues. User emotions were tracked with the Self-Assessment Manikin (SAM) to record valence and perceived control.
