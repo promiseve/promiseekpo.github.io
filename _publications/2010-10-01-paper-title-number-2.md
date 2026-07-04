@@ -1,48 +1,10 @@
 ---
 title: "Investigating Persuasiveness in Large Language Models"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'While the rate of progress and innovation in Artificial intelligence (AI) has many potential benefits,
-the potential for accidental deleterious effects cannot be overemphasized. It has been empirically
-demonstrated that large language models (LLMs) can learn to perform a wide range of natural
-language processing (NLP) tasks in a self-supervised setting. However, these models might
-unintentionally produce convincing arguments for false statements.
-
-There has been recent interest in improving LLM performance by fine-tuning in a reinforcement
-learning framework through interaction with human users. One could raise the concern that even
-seemingly benign reward functions can lead to strategic manipulation of user responses as an instrumental goal to achieve higher overall performance. This thesis seeks to investigate this possibility by evaluating the persuasiveness of self-supervised-only and reinforcement-learning-fine-tuned LLMs.
-
-In this work, we will discuss three approaches to investigating the degree of persuasiveness in
-LLMs by searching for qualitative failures through a direct query, quantifying the persuasiveness of
-generated outputs, and training on this persuasiveness metric as a reward signal with reinforcement
-learning. Through our investigation, we find that state-of-the-art LLMs fail when prompted with
-statements about less popular misconceptions or domain-specific myths. With this investigation of
-the safety-critical related failures of LLMs, we hope to further inform the public of the degree of
-reliability of these models and guide their use.'
-date: 2023-06-13
-#venue: 'Princeton University ProQuest Dissertations Publishing'
-#paperurl: 'https://drive.google.com/file/d/198B-qd--Z1NGEOXJ4hDWvt8rAkGTSi-u/view?usp=sharing'
-#citation: 'P. O. Ekpo, "Investigating Persuasiveness in Large Language Models." Order No. 30491408, Princeton University, United States -- New Jersey, 2023.'
+permalink: /publication/2023-06-01-persuasiveness-llms
+excerpt: 'M.A. thesis quantifying the persuasiveness of GPT-3/4 using a game-theoretic framework, demonstrating 12-50% belief shift toward false statements and uncovering systematic social bias in generated arguments.'
+date: 2023-06-01
+venue: "M.A. Thesis, Princeton University"
+citation: '<b>Promise Ekpo</b>. "Investigating Persuasiveness in Large Language Models." M.A. Thesis, Princeton University, 2023.'
 ---
-
-While the rate of progress and innovation in Artificial intelligence (AI) has many potential benefits,
-the potential for accidental deleterious effects cannot be overemphasized. It has been empirically
-demonstrated that large language models (LLMs) can learn to perform a wide range of natural
-language processing (NLP) tasks in a self-supervised setting. However, these models might
-unintentionally produce convincing arguments for false statements.
-
-There has been recent interest in improving LLM performance by fine-tuning in a reinforcement
-learning framework through interaction with human users. One could raise the concern that even
-seemingly benign reward functions can lead to strategic manipulation of user responses as an instrumental goal to achieve higher overall performance. This thesis seeks to investigate this possibility by evaluating the persuasiveness of self-supervised-only and reinforcement-learning-fine-tuned LLMs.
-
-In this work, we will discuss three approaches to investigating the degree of persuasiveness in
-LLMs by searching for qualitative failures through a direct query, quantifying the persuasiveness of
-generated outputs, and training on this persuasiveness metric as a reward signal with reinforcement
-learning. Through our investigation, we find that state-of-the-art LLMs fail when prompted with
-statements about less popular misconceptions or domain-specific myths. With this investigation of
-the safety-critical related failures of LLMs, we hope to further inform the public of the degree of
-reliability of these models and guide their use.
-
-[Download paper here](https://drive.google.com/file/d/198B-qd--Z1NGEOXJ4hDWvt8rAkGTSi-u/view?usp=sharing)
-
-Recommended citation: P. O. Ekpo, "Investigating Persuasiveness in Large Language Models." Order No. 30491408, Princeton University.
+M.A. thesis (advised by Prof. Jaime Fernández Fisac) quantifying the persuasiveness of GPT-3/4 using a game-theoretic framework, demonstrating a 12-50% belief shift toward false statements (e.g., prior 0.58 to posterior 0.79 for GPT-3). The work uncovered systematic social bias (e.g., misleading arguments generated for one country but refused for another on identical false claims), trained LLMs with PPO on a persuasiveness reward signal (observing emergent manipulation strategies), and proposed reward functions for persuasiveness and truthfulness as an extension of the BIG-BENCH benchmark, contributing to AI safety frameworks for responsible deployment.
