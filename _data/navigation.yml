@@ -1,8 +1,10 @@
 # main links links
 main:
-  - title: "CV"
-    #url: /cv/
-    url: /files/Promise_Ekpo_CV.pdf
+  - title: "Robotics CV"
+    url: /files/Promise_Ekpo_Robotics_HRI_CV.pdf
+
+  - title: "Optimization CV"
+    url: /files/Promise_Ekpo_Optimization_CV.pdf
 
   - title: "Publications"
     url: /publications/
