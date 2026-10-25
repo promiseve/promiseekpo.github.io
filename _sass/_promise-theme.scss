@@ -1,0 +1,44 @@
+/* Charcoal and teal palette, shared by every existing page. */
+@media screen {
+  html { background: #1c1c1d; color-scheme: dark; }
+  body { background: #1c1c1d; color: #dededf; }
+  .masthead, .greedy-nav, .greedy-nav .visible-links,
+  .greedy-nav .hidden-links { background: #1c1c1d; }
+  .masthead { border-bottom: 1px solid #39393c; }
+  .masthead__menu-item a, .greedy-nav a { color: #d4d4d6; }
+  .masthead__menu-item a:hover, .greedy-nav a:hover { color: #49bfd5; }
+  .greedy-nav .visible-links a::before { background: #49bfd5; }
+  .greedy-nav button { background: #303033; }
+  .navicon, .navicon::before, .navicon::after { background: #e5e5e7; }
+  .greedy-nav .hidden-links { border-color: #48484c; box-shadow: 0 4px 12px rgba(0,0,0,.3); }
+  .greedy-nav .hidden-links::after { border-bottom-color: #1c1c1d; }
+  .greedy-nav .hidden-links::before { border-bottom-color: #48484c; }
+  h1, h2, h3, h4, h5, h6, strong, .page__title,
+  .author__name, .archive__item-title { color: #eeeeef; }
+  h1, h2 { letter-spacing: -.025em; }
+  a, a:visited { color: #49bfd5; }
+  a:hover, a:focus { color: #8bddeb; }
+  a:focus-visible, button:focus-visible { outline: 2px solid #8bddeb; outline-offset: 4px; }
+  .page__content h2, hr, .page__related, .page__share { border-color: #3d3d41; }
+  .page__meta, .archive__item-excerpt, .author__bio, .author__urls, .page__date { color: #c3c3c8; }
+  .sidebar { opacity: 1; }
+  .author__avatar img { border-color: #49494d; }
+  .author__urls { background: #242426; border-color: #48484c; }
+  .author__urls a, .author__urls .fa, .author__urls .fab,
+  .author__urls .fas, .author__urls .ai { color: #dededf; }
+  .author__urls a:hover { color: #49bfd5; }
+  .author__urls::after { border-bottom-color: #242426; }
+  .author__urls::before { border-bottom-color: #48484c; }
+  .btn, .btn:visited { background: #303033; border: 1px solid #77777e; color: #eeeeef; }
+  .btn:hover { background: #394044; color: #8bddeb; }
+  .page__footer { background: #242426; color: #bdbdc4; border-top: 1px solid #3d3d41; }
+  .page__footer a, .page__footer .fas, .page__footer .fab { color: #d4d4d6; }
+  .page__footer a:hover { color: #49bfd5; }
+  pre, code, .highlighter-rouge, .highlight { background: #29292c; color: #e1e1e5; }
+  blockquote { border-left-color: #49bfd5; color: #d0d0d5; }
+  table, th, td { border-color: #48484c; }
+  th { background: #303033; }
+  tr:nth-child(even) { background: #242426; }
+  input, textarea, select { background: #242426; color: #eeeeef; border-color: #65656c; }
+  ::selection { background: #236b7a; color: #ffffff; }
+}
