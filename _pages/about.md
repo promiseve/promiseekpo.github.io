@@ -24,4 +24,4 @@ My recent work includes [Listener Differences in HRI (LD-HRI)](https://arxiv.org
 
 I passed my Ph.D. A-exam in July 2026 and expect to graduate in **December 2027**.
 
-[Robotics/HRI CV]({{ site.url }}/files/Promise_Ekpo_Robotics_HRI_CV.pdf) · [Optimization and multi-agent learning CV]({{ site.url }}/files/Promise_Ekpo_Optimization_CV.pdf) · [Talks and presentations]({{ site.url }}/talks/) · [Service and teaching]({{ site.url }}/teaching/)
+[CV]({{ site.url }}/files/Promise_Ekpo_Robotics_HRI_CV.pdf) · [Optimization and multi-agent learning CV]({{ site.url }}/files/Promise_Ekpo_Optimization_CV.pdf) · [Talks and presentations]({{ site.url }}/talks/) · [Service and teaching]({{ site.url }}/teaching/)

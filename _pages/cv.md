@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download my Robotics/HRI CV]({{ site.url }}/files/Promise_Ekpo_Robotics_HRI_CV.pdf)
+[Download my CV]({{ site.url }}/files/Promise_Ekpo_Robotics_HRI_CV.pdf)
 
 For projects focused on optimization, game theory, and multi-agent learning, an [optimization-focused CV is also available]({{ site.url }}/files/Promise_Ekpo_Optimization_CV.pdf).
 
