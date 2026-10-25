@@ -7,9 +7,16 @@ author_profile: true
 
 ## 2026
 
+- **October:** *RFM-HRI* accepted to **ACM Transactions on Human-Robot Interaction (THRI)**.
+- **Third Place**, IEEE Robotics and Automation Society **SPRISE Competition**, IROS 2026.
+- Recognized as an **Anita Borg GHC Emerging Technologist**.
+- Received a **GHC grant from Cornell CIS**.
+- *Ladder Logic Translation using Large Language Models in Industrial Automation* accepted to the **INFUS 2026 proceedings**. [Paper](https://arxiv.org/abs/2605.31458)
+- **July:** Passed my Ph.D. A-exam at Cornell University, presenting *Designing Algorithms for Human-Robot Collaboration from Theory to Practice*.
+- Presented research at IROS workshops, the Northeast Controls Workshop, the NorthEast Robotics Colloquium, Princeton Robotics Colloquium, and the NCWIT Summit. [Talks and presentations]({{ site.url }}/talks/)
+
 - Won the **NCWIT Aspirations in Computing (AiC) Program Grand Prize** ($8,500).
 - Paper *"A Generalized Nash Equilibrium-Seeking Scheme for Trauma Resuscitation"* accepted to the **IFAC World Congress 2026**.
-- *"RFM-HRI: A Multimodal Dataset of Medical Robot Failure, User Reaction, and Recovery Preferences"* accepted to **ACM Transactions on Human-Robot Interaction (THRI)**.
 - *"Integrated Artificial Intelligence in Healthcare and the Patient's Experience of Care"* accepted to **Scientific Reports (Nature)**.
 
 ## 2025

@@ -7,53 +7,12 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my Robotics/HRI CV]({{ site.url }}/files/Promise_Ekpo_Robotics_HRI_CV.pdf)
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+For projects focused on optimization, game theory, and multi-agent learning, an [optimization-focused CV is also available]({{ site.url }}/files/Promise_Ekpo_Optimization_CV.pdf).
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+I am a Computer Science Ph.D. candidate at Cornell University (Cornell Tech), advised by Prof. Angelique Taylor. **Expected graduation: December 2027.** I passed my A-exam in July 2026.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+My research spans human–robot collaboration, robot failure recovery, multimodal evaluation, reinforcement learning, and optimization for multi-agent coordination.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[Publications]({{ site.url }}/publications/) · [News and awards]({{ site.url }}/news/) · [Talks and presentations]({{ site.url }}/talks/) · [Service and teaching]({{ site.url }}/teaching/)

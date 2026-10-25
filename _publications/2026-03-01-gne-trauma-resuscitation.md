@@ -1,5 +1,6 @@
 ---
 title: "A Generalized Nash Equilibrium-Seeking Scheme for Trauma Resuscitation"
+paperurl: https://arxiv.org/abs/2605.22661
 collection: publications
 permalink: /publication/2026-03-01-gne-trauma-resuscitation
 excerpt: 'A distributed generalized Nash equilibrium (GNE) algorithm for multi-agent coordination in trauma resuscitation, achieving state consensus for n=7 healthcare workers with heterogeneous dual variables reflecting network topology.'

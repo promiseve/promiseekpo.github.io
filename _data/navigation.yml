@@ -3,14 +3,14 @@ main:
   - title: "Robotics CV"
     url: /files/Promise_Ekpo_Robotics_HRI_CV.pdf
 
-  - title: "Optimization CV"
-    url: /files/Promise_Ekpo_Optimization_CV.pdf
-
   - title: "Publications"
     url: /publications/
 
   - title: "News &amp; Awards"
     url: /news/
 
-  - title: " Other Research Projects"
+  - title: "Talks &amp; Presentations"
+    url: /talks/
+
+  - title: "Other Research Projects"
     url: /portfolio/
