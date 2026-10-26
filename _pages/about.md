@@ -17,7 +17,7 @@ redirect_from:
     <div class="promise-bio">
       <p>I’m a Computer Science Ph.D. candidate at Cornell University (Cornell Tech), advised by <a href="https://www.angeliquemtaylor.com/">Prof. Angelique Taylor</a> in the AirLab. Before Cornell, I conducted graduate research at Princeton University with <a href="https://ece.princeton.edu/people/jaime-fernandez-fisac">Prof. Jaime Fernández Fisac</a> and worked on AI safety at Siemens Technology.</p>
       <p>My research goal is to build robots that communicate clearly, recover from failures, and collaborate effectively with people. I develop datasets, benchmarks, and learning algorithms to understand human differences and improve robot assistance. My work connects human–robot interaction, reinforcement learning, and multi-agent coordination, with applications in healthcare and an emerging focus on cross-embodiment learning.</p>
-      <p class="promise-cv">Link to <a href="{{ site.url }}/files/Promise_Ekpo_Robotics_HRI_CV.pdf">CV</a>. <span class="promise-secondary">An <a href="{{ site.url }}/files/Promise_Ekpo_Optimization_CV.pdf">optimization-focused version</a> is also available.</span></p>
+      <p class="promise-cv">Link to <a href="{{ site.url }}/files/Promise_Ekpo_Robotics_HRI_CV.pdf">CV</a>.</p>
     </div>
     <figure class="promise-portrait">
       <img src="{{ site.url }}/images/PromiseProfilePic.png" alt="Promise Ekpo" width="320" height="320">
