@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Promise's Homepage"
+title                    : "Promise Ekpo"
 title_separator          : "-"
 name                     : &name "Promise Ekpo Osaine"
 description              : &description "Reinforcement Learning"

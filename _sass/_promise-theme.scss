@@ -42,3 +42,39 @@
   input, textarea, select { background: #242426; color: #eeeeef; border-color: #65656c; }
   ::selection { background: #236b7a; color: #ffffff; }
 }
+
+/* Compact academic homepage; other page layouts remain unchanged. */
+.promise-home { max-width: 1100px; margin: 0 auto; padding: 55px 28px 70px; font-size: 19px; line-height: 1.65; }
+.promise-intro h1 { font-size: clamp(36px, 4.4vw, 54px); font-weight: 300; line-height: 1.15; margin: 0 0 18px; }
+.promise-intro h1 strong { font-weight: 700; }
+.promise-email { color: #dededf !important; text-decoration: none; }
+.promise-bio-grid { display: grid; grid-template-columns: minmax(0, 1fr) 290px; gap: 48px; align-items: start; margin-top: 28px; }
+.promise-bio p { margin: 0 0 22px; }
+.promise-portrait { margin: 0; text-align: center; }
+.promise-portrait img { display: block; width: 290px; height: 290px; object-fit: cover; border-radius: 50%; }
+.promise-portrait figcaption { font-family: inherit; font-size: 18px; line-height: 1.5; margin-top: 14px; }
+.promise-secondary { font-size: .85em; color: #bdbdc4; }
+.promise-social { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 26px; margin: 24px 0 34px; }
+.promise-social a { color: #e6e6e8; font-size: 55px; line-height: 1; text-decoration: none; }
+.promise-social a:hover { color: #49bfd5; }
+.promise-home h2 { font-size: 36px; font-weight: 400; margin: 28px 0 15px; }
+.promise-news dl { margin: 0; padding: 6px 20px; background: #30363b; }
+.promise-news dl > div { display: grid; grid-template-columns: 92px minmax(0,1fr); gap: 18px; padding: 14px 0; }
+.promise-news dt { font-size: 16px; font-weight: 700; margin: 0; }
+.promise-news dd { margin: 0; font-size: 17px; }
+.promise-more { font-size: 16px; margin: 14px 0 24px; }
+.promise-selected article { padding: 18px 0; border-bottom: 1px solid #3d3d41; }
+.promise-selected h3 { font-size: 20px; line-height: 1.4; margin: 0 0 8px; }
+.promise-selected p { font-size: 16px; margin: 0; color: #c3c3c8; }
+@media (max-width: 760px) {
+  .promise-home { padding: 32px 20px 48px; font-size: 17px; }
+  .promise-bio-grid { grid-template-columns: 1fr; gap: 24px; }
+  .promise-portrait { grid-row: 1; }
+  .promise-portrait img { width: 210px; height: 210px; margin: auto; }
+  .promise-social { gap: 22px; }
+  .promise-social a { font-size: 40px; }
+  .promise-news dl { padding: 6px 14px; }
+  .promise-news dl > div { grid-template-columns: 68px minmax(0,1fr); gap: 12px; }
+  .promise-news dt { font-size: 14px; }
+  .promise-news dd { font-size: 16px; }
+}
